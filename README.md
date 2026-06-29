@@ -1,2 +1,0 @@
-# PDSS
-PDSS technology
